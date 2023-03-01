@@ -4,6 +4,8 @@ Calculate polynomials used in PLONK Arithmetisation. Fill in the values in this 
 
 The polynomial used in this assignment is: $$x^3 + x == 2$$
 
+**Note: You can use the code from your `Lagrange Polynomial Assignment` to complete this**
+
 ## Gates
 
 Complete the gates below, the first one is completed for you
