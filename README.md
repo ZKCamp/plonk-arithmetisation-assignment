@@ -43,6 +43,8 @@ $$q_L * a + q_R * b + q_O * c + q_M * a*b + q_C = 0$$
 |  ?  |  ?  |  ?  |  ?  |  ?  |
 |  ?  |  ?  |  ?  |  ?  |  ?  |
 
+**Note: Verify that the values of $q_L$, $q_R$, $q_O$, $q_M$ and $q_C$ for each gate satisfy the equation when substituted.**
+
 ## Domain
 
 We will use the base field of $\mathbb{F_{17}}$ and the domain consisting of roots of unity
